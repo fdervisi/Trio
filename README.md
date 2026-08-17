@@ -99,7 +99,7 @@ Instructions in **greater detail**:
 ## Support
 
 - [Trio Facebook Group](https://facebook.triodocs.org/)
-- [Loop and Learn Facebook Group](https://m.facebook.com/groups/LOOPandLEARN/)
+- [Loop and Learn Facebook Group](https://m.facebook.com/groups/LOOPandLEARN/) 
 - [Looped Facebook Group](https://m.facebook.com/groups/TheLoopedGroup/)
 
 For questions or contributions, please join our [Discord server](https://discord.triodocs.org).
